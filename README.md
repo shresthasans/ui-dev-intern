@@ -16,7 +16,7 @@ The test is designed to check one's familiarity with field basics. Visiting the 
 
 ## Task
 
- * Visit the link for task's Wireframe: http://te56v1.axshare.com/#c=2)
+ * Visit the link for task's [Wireframe](http://te56v1.axshare.com/#c=2).
  * Individual should layout visual components i.e. Images, Colors, Spacings, Interaction etc. by self.
  * Convert the completed layout into interactive prototype using valid HTML, CSS & JS syntax. (Hover on Navigation, Login button)
  * The prototype should be Responsive enough to scale across devices without any UI issues.
